@@ -13,7 +13,7 @@
     "@atproto/api": "0.12.19-next.0",
     "@atproto/common": "^0.4.0",
     "@resvg/resvg-js": "^2.6.2",
-    "express": "^4.19.2",
+    "express": "^4.22.2",
     "http-terminator": "^3.2.0",
     "pino": "^9.2.0",
     "react": "^18.3.1",
@@ -24,5 +24,10 @@
     "@types/node": "^20.14.3",
     "ts-node": "^10.9.2",
     "typescript": "^5.4.5"
+  },
+  "resolutions": {
+    "proxy-addr": "2.0.8",
+    "diff": "4.0.4",
+    "fflate": "0.7.5"
   }
 }
